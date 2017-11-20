@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\ParallelPrograming\WaitingForTasks\bin\Debug\WaitingForTasks.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\WaitingForTasks\bin\Debug\WaitingForTasks.exe
+C:\Users\fmert\source\repos\ParallelPrograming\WaitingForTasks\bin\Debug\WaitingForTasks.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\WaitingForTasks\obj\Debug\WaitingForTasks.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\ParallelPrograming\WaitingForTasks\obj\Debug\WaitingForTasks.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\WaitingForTasks\obj\Debug\WaitingForTasks.exe
+C:\Users\fmert\source\repos\ParallelPrograming\WaitingForTasks\obj\Debug\WaitingForTasks.pdb

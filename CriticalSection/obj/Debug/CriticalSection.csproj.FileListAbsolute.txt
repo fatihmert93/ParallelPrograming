@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\ParallelPrograming\CriticalSection\bin\Debug\CriticalSection.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\CriticalSection\bin\Debug\CriticalSection.exe
+C:\Users\fmert\source\repos\ParallelPrograming\CriticalSection\bin\Debug\CriticalSection.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\CriticalSection\obj\Debug\CriticalSection.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\ParallelPrograming\CriticalSection\obj\Debug\CriticalSection.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\CriticalSection\obj\Debug\CriticalSection.exe
+C:\Users\fmert\source\repos\ParallelPrograming\CriticalSection\obj\Debug\CriticalSection.pdb

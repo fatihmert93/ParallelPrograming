@@ -1,0 +1,6 @@
+C:\Users\fmert\source\repos\ParallelPrograming\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

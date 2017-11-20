@@ -1,0 +1,6 @@
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.pdb

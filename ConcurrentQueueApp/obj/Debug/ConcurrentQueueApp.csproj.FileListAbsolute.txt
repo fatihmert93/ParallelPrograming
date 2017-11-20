@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentQueueApp\bin\Debug\ConcurrentQueueApp.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentQueueApp\bin\Debug\ConcurrentQueueApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentQueueApp\bin\Debug\ConcurrentQueueApp.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentQueueApp\obj\Debug\ConcurrentQueueApp.csprojResolveAssemblyReference.cache
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentQueueApp\obj\Debug\ConcurrentQueueApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentQueueApp\obj\Debug\ConcurrentQueueApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentQueueApp\obj\Debug\ConcurrentQueueApp.pdb

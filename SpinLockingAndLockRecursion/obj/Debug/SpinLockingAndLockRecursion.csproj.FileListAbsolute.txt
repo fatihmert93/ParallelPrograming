@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\ParallelPrograming\SpinLockingAndLockRecursion\bin\Debug\SpinLockingAndLockRecursion.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\SpinLockingAndLockRecursion\bin\Debug\SpinLockingAndLockRecursion.exe
+C:\Users\fmert\source\repos\ParallelPrograming\SpinLockingAndLockRecursion\bin\Debug\SpinLockingAndLockRecursion.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\SpinLockingAndLockRecursion\obj\Debug\SpinLockingAndLockRecursion.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\SpinLockingAndLockRecursion\obj\Debug\SpinLockingAndLockRecursion.exe
+C:\Users\fmert\source\repos\ParallelPrograming\SpinLockingAndLockRecursion\obj\Debug\SpinLockingAndLockRecursion.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\SpinLockingAndLockRecursion\obj\Debug\SpinLockingAndLockRecursion.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentStack\obj\Debug\ConcurrentStackApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentStack\bin\Debug\ConcurrentStackApp.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentStack\bin\Debug\ConcurrentStackApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentStack\bin\Debug\ConcurrentStackApp.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentStack\obj\Debug\ConcurrentStackApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ConcurrentStack\obj\Debug\ConcurrentStackApp.pdb

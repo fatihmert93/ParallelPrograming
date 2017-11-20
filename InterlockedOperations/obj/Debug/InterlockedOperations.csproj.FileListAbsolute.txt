@@ -1,0 +1,6 @@
+C:\Users\fmert\source\repos\ParallelPrograming\InterlockedOperations\bin\Debug\InterlockedOperations.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\InterlockedOperations\bin\Debug\InterlockedOperations.exe
+C:\Users\fmert\source\repos\ParallelPrograming\InterlockedOperations\bin\Debug\InterlockedOperations.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\InterlockedOperations\obj\Debug\InterlockedOperations.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\InterlockedOperations\obj\Debug\InterlockedOperations.exe
+C:\Users\fmert\source\repos\ParallelPrograming\InterlockedOperations\obj\Debug\InterlockedOperations.pdb

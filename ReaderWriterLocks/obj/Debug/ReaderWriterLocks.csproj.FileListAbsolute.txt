@@ -1,0 +1,6 @@
+C:\Users\fmert\source\repos\ParallelPrograming\ReaderWriterLocks\bin\Debug\ReaderWriterLocks.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\ReaderWriterLocks\bin\Debug\ReaderWriterLocks.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ReaderWriterLocks\bin\Debug\ReaderWriterLocks.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\ReaderWriterLocks\obj\Debug\ReaderWriterLocks.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\ReaderWriterLocks\obj\Debug\ReaderWriterLocks.exe
+C:\Users\fmert\source\repos\ParallelPrograming\ReaderWriterLocks\obj\Debug\ReaderWriterLocks.pdb

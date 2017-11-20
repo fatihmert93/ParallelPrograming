@@ -1,0 +1,7 @@
+C:\Users\fmert\source\repos\ParallelPrograming\Mutex\bin\Debug\MutexApp.exe.config
+C:\Users\fmert\source\repos\ParallelPrograming\Mutex\bin\Debug\MutexApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\Mutex\bin\Debug\MutexApp.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\Mutex\obj\Debug\MutexApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\source\repos\ParallelPrograming\Mutex\obj\Debug\MutexApp.exe
+C:\Users\fmert\source\repos\ParallelPrograming\Mutex\obj\Debug\MutexApp.pdb
+C:\Users\fmert\source\repos\ParallelPrograming\Mutex\obj\Debug\MutexApp.csprojResolveAssemblyReference.cache
