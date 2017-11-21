@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.Data.Odbc;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,6 +30,12 @@ namespace ConcurrentBagApp
             }
 
             Task.WaitAll(tasks.ToArray());
+
+            int last;
+            if (bag.TryTake(out last))
+            {
+                Console.WriteLine($"I got {last}");
+            }
         }
     }
 }

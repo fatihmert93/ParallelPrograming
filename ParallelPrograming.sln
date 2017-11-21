@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentStackApp", "Concu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentBagApp", "ConcurrentBagApp\ConcurrentBagApp.csproj", "{C5247763-9844-4763-BC96-B519D2C2156F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollection_ProducerConsumerPattern", "BlockingCollection_ProducerConsumerPattern\BlockingCollection_ProducerConsumerPattern.csproj", "{73BA73F4-1B08-47BB-9D29-9480C35307F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{C5247763-9844-4763-BC96-B519D2C2156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5247763-9844-4763-BC96-B519D2C2156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5247763-9844-4763-BC96-B519D2C2156F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BA73F4-1B08-47BB-9D29-9480C35307F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BA73F4-1B08-47BB-9D29-9480C35307F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BA73F4-1B08-47BB-9D29-9480C35307F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BA73F4-1B08-47BB-9D29-9480C35307F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +117,7 @@ Global
 		{DE290B90-61EC-45C8-A7A2-2F71DFAAC622} = {E8F78791-3898-4665-9B65-95F3B40371F5}
 		{AF713144-2637-47B9-AB99-CF35B047F48A} = {E8F78791-3898-4665-9B65-95F3B40371F5}
 		{C5247763-9844-4763-BC96-B519D2C2156F} = {E8F78791-3898-4665-9B65-95F3B40371F5}
+		{73BA73F4-1B08-47BB-9D29-9480C35307F3} = {E8F78791-3898-4665-9B65-95F3B40371F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A891028B-FED9-4DB6-8339-C22EF0DE252E}
