@@ -1,0 +1,6 @@
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\BarrierApp\bin\Debug\BarrierApp.exe.config
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\BarrierApp\bin\Debug\BarrierApp.exe
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\BarrierApp\bin\Debug\BarrierApp.pdb
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\BarrierApp\obj\Debug\BarrierApp.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\BarrierApp\obj\Debug\BarrierApp.exe
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\BarrierApp\obj\Debug\BarrierApp.pdb

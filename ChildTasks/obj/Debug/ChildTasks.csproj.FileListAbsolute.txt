@@ -1,0 +1,6 @@
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\ChildTasks\bin\Debug\ChildTasks.exe.config
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\ChildTasks\bin\Debug\ChildTasks.exe
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\ChildTasks\bin\Debug\ChildTasks.pdb
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\ChildTasks\obj\Debug\ChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\ChildTasks\obj\Debug\ChildTasks.exe
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\ChildTasks\obj\Debug\ChildTasks.pdb

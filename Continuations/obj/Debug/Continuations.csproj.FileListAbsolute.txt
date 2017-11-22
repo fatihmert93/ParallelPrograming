@@ -1,0 +1,6 @@
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\Continuations\bin\Debug\Continuations.exe.config
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\Continuations\bin\Debug\Continuations.exe
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\Continuations\bin\Debug\Continuations.pdb
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\Continuations\obj\Debug\Continuations.csproj.CoreCompileInputs.cache
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\Continuations\obj\Debug\Continuations.exe
+C:\Users\fmert\Documents\GitHub\ParallelPrograming\Continuations\obj\Debug\Continuations.pdb
